@@ -6,11 +6,11 @@
 
 ---
 
-## 📱 Proje Hakkında (About the Project)
+## 📱 Proje Hakkında
 
 **MatchFlix**, film seçme kaosuna son veren modern bir web uygulamasıdır. "Ne izlesek?" sorusunu teknolojiyle çözer. Arkadaşlarınızla eşleşerek, her iki tarafın da zevkine uygun ortak filmleri saniyeler içinde bulmanızı sağlar.
 
-### 🛠️ Teknolojiler (Tech Stack)
+### 🛠️ Teknolojiler
 
 Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 *   **Backend:** Python, Django
